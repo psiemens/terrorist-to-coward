@@ -7,9 +7,10 @@ var REPLACEMENTS = {
 
 var replaceTerror = function(textNode) {
     var text = textNode.data;
-    $.each(REPLACEMENTS, function (before, after) {
-        text = text.replace(new RegExp(before, "g"), after);
-    });
+    for(var before in REPLACEMENTS){
+        if(REPLACEMENTS.hasOwnProperty(before))
+            text = text.replace(new RegExp(before, "g"), REPLACEMENTS[before]);
+    }
     textNode.data = text;
 };
 
