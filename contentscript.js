@@ -1,12 +1,21 @@
 var REPLACEMENTS = {
+    //English
     'terrorist': 'coward',
     'Terrorist': 'Coward',
     'terrorism': 'cowardice',
     'Terrorism': 'Cowardice'
+    //Portuguese
     'terrorista': 'covarde',
     'Terrorista': 'Covarde',
     'terrorismo': 'covardia',
-    'Terrorismo': 'Covardia'
+    'Terrorismo': 'Covardia',
+    //Turkish
+    'terörist': 'korkak',
+    'Terörist': 'Korkak',
+    'terörizm': 'korkaklık',
+    'Terörizm': 'Korkaklık'
+    'teröristler': 'korkaklar',
+    'Teröristler': 'Korkaklar',
 };
 
 var replaceTerror = function(textNode) {
