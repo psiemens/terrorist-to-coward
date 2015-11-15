@@ -2,7 +2,7 @@ var REPLACEMENTS = {
     'terrorist': 'coward',
     'Terrorist': 'Coward',
     'terrorism': 'cowardice',
-    'Terrorism': 'Cowardice'
+    'Terrorism': 'Cowardice',
     'terrorista': 'covarde',
     'Terrorista': 'Covarde',
     'terrorismo': 'covardia',
