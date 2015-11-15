@@ -6,7 +6,9 @@ var REPLACEMENTS = {
     'terrorista': 'covarde',
     'Terrorista': 'Covarde',
     'terrorismo': 'covardia',
-    'Terrorismo': 'Covardia'
+    'Terrorismo': 'Covardia',
+    // CN Translation
+    '恐怖': '懦弱'
 };
 
 var replaceTerror = function(textNode) {
