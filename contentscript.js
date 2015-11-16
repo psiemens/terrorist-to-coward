@@ -10,10 +10,10 @@ var REPLACEMENTS = {
     'terrorismo': 'covardia',
     'Terrorismo': 'Covardia',
     // Spanish
-    'cowarda': 'cobarde',
-    'Cowarda': 'Cobarde',
-    'cowardiceo': 'cobardía',
-    'Cowardiceo': 'Cobardía',
+    'terrorista': 'cobarde',
+    'Terrorista': 'Cobarde',
+    'terrorismo': 'cobardía',
+    'Terrorismo': 'Cobardía',
     //German
     'Terrorist': 'Feigling',
     'Terroristen': 'Feiglinge',
