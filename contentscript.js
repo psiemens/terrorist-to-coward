@@ -7,6 +7,11 @@ var REPLACEMENTS = {
     'Terrorista': 'Covarde',
     'terrorismo': 'covardia',
     'Terrorismo': 'Covardia',
+    // TR Translation
+    'terörist': 'korkak',
+    'Terörist': 'Korkak',
+    'terörizm': 'korkaklık',
+    'Terörizm': 'Korkaklık',
     // CN Translation
     '恐怖': '懦弱'
 };
