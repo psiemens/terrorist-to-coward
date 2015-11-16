@@ -6,7 +6,7 @@ var REPLACEMENTS = {
     'terrorista': 'cobarde',
     'Terrorista': 'Cobarde',
     'terrorismo': 'cobardía',
-    'Terrorismo': 'Covardía',
+    'Terrorismo': 'Cobardía',
     // CN Translation
     '恐怖': '懦弱'
 };
