@@ -1,19 +1,33 @@
 var REPLACEMENTS = {
+    // English
     'terrorist': 'coward',
     'Terrorist': 'Coward',
     'terrorism': 'cowardice',
     'Terrorism': 'Cowardice',
+    // Portuguese
     'terrorista': 'covarde',
     'Terrorista': 'Covarde',
     'terrorismo': 'covardia',
     'Terrorismo': 'Covardia',
+    // Spanish
+    'cowarda': 'cobarde',
+    'Cowarda': 'Cobarde',
+    'cowardiceo': 'cobardía',
+    'Cowardiceo': 'Cobardía',
     //German
     'Terrorist': 'Feigling',
     'Terroristen': 'Feiglinge',
     'Terrorismus': 'Feigheit',
     'Terror': 'Feige',
-    // CN Translation
-    '恐怖': '懦弱'
+    // Chinese
+    '恐怖': '懦弱',
+    // Turkish
+    'terörist': 'korkak',
+    'Terörist': 'Korkak',
+    'terörizm': 'korkaklık',
+    'Terörizm': 'Korkaklık',
+    'teröristler': 'korkaklar',
+    'Teröristler': 'Korkaklar',
 };
 
 var replaceTerror = function(textNode) {
