@@ -7,6 +7,11 @@ var REPLACEMENTS = {
     'Terrorista': 'Covarde',
     'terrorismo': 'covardia',
     'Terrorismo': 'Covardia',
+    //German
+    'Terrorist': 'Feigling',
+    'Terroristen': 'Feiglinge',
+    'Terrorismus': 'Feigheit',
+    'Terror': 'Feige',
     // CN Translation
     '恐怖': '懦弱'
 };
