@@ -28,6 +28,15 @@ var REPLACEMENTS = {
     'Terörizm': 'Korkaklık',
     'teröristler': 'korkaklar',
     'Teröristler': 'Korkaklar',
+    //Greek
+    'τρομοκράτης': 'δειλός',
+    'τρομοκρατης': 'δειλός',
+    'Τρομοκράτης': 'Δειλός',
+    'Τρομοκρατης': 'Δειλός',
+    'τρομοκρατία': 'δειλία',
+    'τρομοκρατια': 'δειλία',
+    'Τρομοκρατία': 'Δειλία',
+    'Τρομοκρατια': 'Δειλία',
 };
 
 var replaceTerror = function(textNode) {
