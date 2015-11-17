@@ -37,6 +37,20 @@ var REPLACEMENTS = {
     'τρομοκρατια': 'δειλία',
     'Τρομοκρατία': 'Δειλία',
     'Τρομοκρατια': 'Δειλία',
+    // Serbian (Latin)
+    'terorista': 'kukavica',
+    'Terorista': 'Kukavica',
+    'terorizam': 'kukavičluk',
+    'Terorizam': 'Kukavičluk', 
+    'teroristički': 'kukavičlučki',
+    'Teroristički': 'kukavičlučki',
+    // Serbian (Cyrilic)
+    'терориста': 'кукавица',
+    'Терориста': 'Кукавица',
+    'тероризам': 'кукавичлук',
+    'Тероризам': 'Кукавичлук', 
+    'терористички': 'кукавичлучки',
+    'Терористички': 'Кукавичлучки',
 };
 
 var replaceTerror = function(textNode) {
