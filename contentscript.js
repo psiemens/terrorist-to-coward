@@ -51,6 +51,13 @@ var REPLACEMENTS = {
     'Тероризам': 'Кукавичлук', 
     'терористички': 'кукавичлучки',
     'Терористички': 'Кукавичлучки',
+    // Italian
+    'terrorista': 'codardo',
+    'Terrorista': 'Codardo',
+    'terroristi': 'codardi',
+    'Terroristi': 'Codardi',
+    'terrorismo': 'codardia',
+    'Terrorismo': 'Codardia',
 };
 
 var replaceTerror = function(textNode) {
