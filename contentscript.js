@@ -62,6 +62,10 @@ var REPLACEMENTS = {
     'Terroristi': 'Codardi',
     'terrorismo': 'codardia',
     'Terrorismo': 'Codardia',
+    
+    //Hindi
+    'आतंकवादी': 'कायर',
+    'आतंक': 'कायरता',
 };
 
 var replaceTerror = function(textNode) {
