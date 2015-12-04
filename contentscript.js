@@ -62,6 +62,13 @@ var REPLACEMENTS = {
     'Terroristi': 'Codardi',
     'terrorismo': 'codardia',
     'Terrorismo': 'Codardia',
+    // French
+    'terroriste': 'lâche',
+    'Terroriste': 'Lâche',
+    'terroristes': 'lâches',
+    'Terroristes': 'lâches',
+    'terrorisme': 'lâcheté',
+    'Terrorisme': 'Lâcheté',
 };
 
 var replaceTerror = function(textNode) {
