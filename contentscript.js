@@ -2,6 +2,8 @@ var REPLACEMENTS = {
     // English
     'terrorist': 'coward',
     'Terrorist': 'Coward',
+    'terrorists': 'cowards',
+    'Terrorists': 'Cowards',
     'terrorism': 'cowardice',
     'Terrorism': 'Cowardice',
     // Portuguese
