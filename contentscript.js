@@ -45,14 +45,14 @@ var REPLACEMENTS = {
     'terorista': 'kukavica',
     'Terorista': 'Kukavica',
     'terorizam': 'kukavičluk',
-    'Terorizam': 'Kukavičluk', 
+    'Terorizam': 'Kukavičluk',
     'teroristički': 'kukavičlučki',
     'Teroristički': 'kukavičlučki',
     // Serbian (Cyrilic)
     'терориста': 'кукавица',
     'Терориста': 'Кукавица',
     'тероризам': 'кукавичлук',
-    'Тероризам': 'Кукавичлук', 
+    'Тероризам': 'Кукавичлук',
     'терористички': 'кукавичлучки',
     'Терористички': 'Кукавичлучки',
     // Italian
@@ -62,6 +62,11 @@ var REPLACEMENTS = {
     'Terroristi': 'Codardi',
     'terrorismo': 'codardia',
     'Terrorismo': 'Codardia',
+    // Sinhala
+    'ත්‍රස්ථවාදියා' : 'බයගුල්ලා',
+    'ත්‍රස්ථවාදීන්' : 'බයගුල්ලන්',
+    'ත්‍රස්ථවාදී' : 'බියගුලු',
+    'ත්‍රස්තවාදය' : 'බියසුලුකම',
 };
 
 var replaceTerror = function(textNode) {
